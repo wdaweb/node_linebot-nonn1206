@@ -23,4 +23,13 @@
 若使用 GitHub 網頁進行 commit 會依次數扣分
 
 ## 作業連結
-- [儲存庫](https://github.com/)
+- [儲存庫](https://github.com/nonn1206/wc)
+
+## 機器人好友ID
+@853kxzof
+
+## 政府公開資料(台北市廁所)
+https://data.epa.gov.tw/api/v1/fac_p_28?limit=1000&api_key=9be7b239-557b-4c10-9775-78cadfc555e9&format=json
+
+## 輸入現在所在地的里名稱可協尋最近的廁所，只限台北市
+ex:保安里   
